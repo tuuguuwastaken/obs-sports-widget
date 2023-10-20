@@ -1,0 +1,30 @@
+.sports-container{
+  margin-top: 8px;
+  margin-left: 20px;
+  // display: flex;
+  // justify-content: flex-start;
+  // margin-left: 50px;
+  // gap: 100px;
+  color: white;
+  // .team-container{
+  //   text-align: center;
+  //   .points{
+      
+  //     display: flex;
+  //     justify-content: space-between;
+  //     flex-direction: row;
+  //     position: absolute;
+  //     left: 210px;
+  //     top: 5px;
+  //   }
+  //   .teamOne{
+  //     position: absolute;
+  //   }
+  // }
+  .img{
+    position: absolute;
+    left: -50px;
+    bottom: 720px;
+    z-index: -1;
+  }
+}
